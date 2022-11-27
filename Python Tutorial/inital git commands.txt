@@ -1,0 +1,13 @@
+echo "# Python-Tutorial" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Prajwal056/Python-Tutorial.git
+git push -u origin main
+
+To create a branch -> 
+                        [git branch Branch_Name]. 
+To delete ->    
+                        [git branch -d Branch_Name] 
+                        git checkout Branch_Name

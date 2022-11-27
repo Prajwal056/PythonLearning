@@ -1,0 +1,27 @@
+History of Python 2
+    Below is a brief history of the important feature updates seen in python 2.x versions -
+        Python 2.0, released in October 2000 introduced list comprehensions and garbage collectors.
+        Python 2.1, released in April 2001 supports nested scopes like other static scoped languages.
+        Python 2.5 was released in September 2006, which introduced the with statement.
+        Python 2.7, released in July 2010 is the last release in the 2.x series of python. 
+        Python 2.7 official support ended on January 1, 2020. A final release 2.7.18, 
+            occurred on April 20, 2020, which included fixes for critical bugs and release blockers. 
+            This marks the end-of-life of Python 2
+# Hello World program in Python 2.x
+    
+print "Hello World!\n"
+
+History of Python 3
+
+    Below is a brief history of the important feature updates seen in Python 3.x -
+        Python 3.0 also known as “Python 3000” or “Py3K”, which was released on December 3, 2008, 
+            was the first-ever intentionally backward-incompatible Python release. 
+            It introduced many changes in the fundamental design which posed an issue in python 2.5 and python 2.6 at that time. 
+            We shall discuss the difference and the changes introduced in detail in the Difference between Python 2 and 3 section of the article.
+        Python 3.2 was released in 2011 introduced argparse command-line parsing module to overcome limitations present in optparse. 
+            It also added concurrent module which contains code for creating and managing concurrency.
+        Python 3.9, which is the latest stable release that came out in 2020, 
+            gave out several improvements in the interpreter, newly added string methods, union operators in dictionaries, and few new libraries as well.
+# Hello World program in Python 3.x
+
+print('Hello World!')
